@@ -2,7 +2,8 @@
 
 int main()
 {
-  float a,b;
+  float a;
+  int b;
   printf("%.bf\n",a);
   return 0;
 }
