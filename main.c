@@ -2,8 +2,7 @@
 
 int main()
 {
-  //ここにコードを書く
-
-  
+  float a,b;
+  printf("%.bf\n",a);
   return 0;
 }
